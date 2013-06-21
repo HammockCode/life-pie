@@ -1,0 +1,31 @@
+
+            .blue       { background-color: #2391F1; }
+            .lila       { background-color: #EA23F1; }
+            .yellow     { background-color: #F1EA23; }
+            .turqoise   { background-color: #23F1EA; }
+            .orange     { background-color: #F18323; }
+
+            #piecanvas { width: 800px; height: 800px; position: absolute; top: 0; left: 0 }
+            #scorecard { font-size: 16px ; font-weight: bold; }
+
+            .slider { margin: 1px; width: 150px; }
+            #data {
+                width: 200px;
+                position: relative;
+                left: 650px;
+                top: 40px;
+            }
+            #header {
+                text-align: center;
+                padding-top: 5px;
+                padding-bottom: 5px;
+                font-style: italic;
+                background-color:  #2391F1;
+            }
+
+            #introduction {
+                margin-top: 15px;
+                text-align: center;
+
+            }
+
