@@ -1,0 +1,43 @@
+
+            .blue       { background-color: #2391F1; }
+            .lila       { background-color: #EA23F1; }
+            .yellow     { background-color: #F1EA23; }
+            .turqoise   { background-color: #23F1EA; }
+            .orange     { background-color: #F18323; }
+
+	    body {
+	    	 font-family: 'Lato', sans-serif;
+	    }
+
+            #piecanvas { width: 800px; height: 800px; position: absolute; top: 0; left: 0 }
+            #scorecard { 
+	    	       font-size: 16px ; 
+		       
+		       font-family: 'Lobster', cursive;
+		       }
+
+            .slider { margin: 1px; width: 150px; }
+            #data {
+                width: 200px;
+                position: relative;
+                left: 650px;
+                top: 40px;
+            }
+            #header {
+                text-align: center;
+                padding-top: 5px;
+                padding-bottom: 5px;
+                background-color:  #2391F1;
+		font-family: 'Lobster', cursive;
+            }
+
+            #introduction {
+                margin-top: 15px;
+                text-align: center;
+		font-family: 'Lato', sans-serif;
+
+            }
+
+	    th {
+		font-family: 'Lato', sans-serif;
+	    }
